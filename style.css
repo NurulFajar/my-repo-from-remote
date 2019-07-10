@@ -1,6 +1,7 @@
 body{
     width: 100%;
     margin: 30px;
+    
     background-color: antiquewhite;
 }
 #profile-container{
@@ -8,6 +9,7 @@ body{
     background-color: white;
     border: 1px solid green;
     border-radius: 6px;
+    margin: auto;
 }
 #profile-image{
     width: 100%;
