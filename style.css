@@ -9,15 +9,22 @@ header{
 }
 body{
     width: 100%;
-    margin: 30px;
+    height: :30px;
+    margin : 0px;
+    padding : 0px;
     background-color: antiquewhite;
+    font-family : Arial, Helvetica, sans-serif;
 }
 #profile-container{
     max-width: 300px;
     background-color: white;
     border: 1px solid green;
     border-radius: 6px;
+<<<<<<< HEAD
     margin: auto;
+=======
+    margin: 80px auto;
+>>>>>>> e27fec613b53d2ffc95bc5ffa542c03bd2bb3bc1
 }
 #profile-image{
     width: 100%;
